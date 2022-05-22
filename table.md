@@ -14,12 +14,9 @@
 * inquiries_users
   * inquiry_id
   * user_id
+  * resolve:boolean
 
 * answers
   * id:integer
   * comment:string
-  * inquiry_id
-
-* resolve
-  * user_id
   * inquiry_id
