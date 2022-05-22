@@ -12,11 +12,11 @@
   * answer_id
 
 * inquiries_users
-  * inquiry_id
-  * user_id
+  * inquiry_id:integer
+  * user_id:integer
   * resolve:boolean
 
 * answers
   * id:integer
   * comment:string
-  * inquiry_id
+  * inquiry_id:integer
