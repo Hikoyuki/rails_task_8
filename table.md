@@ -4,11 +4,7 @@
   * image:string
   * email:string
   * encrypted_password:string
-
-* admin
-  * id:integer
-  * name:string
-  * encrypted_password:string
+  * admin:boolean
 
 * inquiries
   * id:integer
