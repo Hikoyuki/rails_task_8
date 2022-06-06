@@ -1,7 +1,7 @@
 |  やりたいこと  |  HTTPメソッド  |  エンドポイント  |  コントローラ#アクション  |
 | ---- | ---- | ---- | ---- |
 |  ユーザー登録画面を表示する  |  GET  |  /users/new  |  users#new  |
-|  ユーザー登録をする  |  POST  |  /users/create  |  users#create  |
+|  ユーザー登録をする  |  POST  |  /users |  users#create  |
 |  ログイン画面を表示する  |  GET  |  /login  |  new  |
 |  ログインする  |   POST  |  /login  |  create  |
 |  質問一覧を表示する（全て）  |  GET  |  /inquiries  |  inquiries#index  |
